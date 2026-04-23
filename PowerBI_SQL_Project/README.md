@@ -1,31 +1,58 @@
 <details>
-  <summary><b>View Project Details (Click to expand)</b></summary>
+  <summary>Project Details / Деталі проєкту</summary>
 
-# 🍕 Pizza Sales — Power BI Dashboard
+# Pizza Sales Analysis
 
-Comprehensive sales analysis dashboard for a pizza restaurant. The project focuses on data processing, SQL validation, and interactive visualization.
+**English**
+This project analyzes pizza restaurant sales data for the year 2015. It covers data processing, SQL validation, and visualization in Power BI.
 
-## 🛠 Tools & Skills
-* **Power BI:** Data modeling, DAX, Interactive Visualization.
-* **SQL Server:** Data extraction and KPI validation (using `DESKTOP-GGS8TLK\SQLEXPRESS`).
-* **Excel:** Source data storage and cleaning.
+### Repository Contents
+* **Pizza_DB.pbix** — Main Power BI file with data model and interactive reports.
+* **Pizza_DB.pdf** — Static dashboard copy for quick preview.
+* **SQLQuery1.sql** — SQL queries used for KPI calculation and validation.
+* **pizza_sales_excel_file.xlsx** — Source dataset (~48,000 rows).
 
-## 📊 Key Insights
-* **Core KPIs:** Total Revenue, Total Orders, Average Order Value, and Total Pizzas Sold.
-* **Sales Trends:** Analysis of orders by day of the week and month to identify peak hours/seasons.
-* **Product Performance:** Sales distribution by pizza category and size.
-* **Inventory Focus:** Top 5 and Bottom 5 pizzas by revenue, quantity, and total orders.
+### Tech Stack
+* **Power BI:** Data modeling, DAX measures, and visualization.
+* **SQL Server:** Data accuracy verification and business metrics calculation.
+* **Excel:** Data preparation and storage.
 
-## 📂 Project Structure
-* `PizzaSalesDashboard.pbix` — Full Power BI report with DAX measures.
-* `pizza_sales_excel_file.xlsx` — Raw data (~48,000 rows).
-* `SQLQuery1.sql` — SQL scripts used to verify Power BI calculations against the database.
+### Key Performance Indicators
+* Total revenue, order count, and average order value.
+* Sales dynamics by day of the week and month.
+* Sales structure by pizza category and size.
+* Top and bottom performers (Top and bottom selling pizzas).
 
-## 🚀 How to Open
-1. Download all files to one folder.
-2. Open `PizzaSalesDashboard.pbix` in **Power BI Desktop**.
-3. **Note:** Since the dashboard was originally connected to a local SQL Server, you may need to update the data source: 
-   * Go to **Home → Transform Data → Data Source Settings**.
-   * Change the source to the provided `pizza_sales_excel_file.xlsx`.
+### How to Open
+1. Download the `Pizza_DB.pbix` file.
+2. Open it in **Power BI Desktop**.
+3. If necessary, update the source file path (Excel) via **Transform Data**, as the original connection was set to a local SQL Server.
+
+---
+
+**Українська**
+Проєкт присвячений аналізу продажів мережі піцерій за 2015 рік. Включає етапи обробки даних, валідації за допомогою SQL та візуалізації в Power BI.
+
+### Склад репозиторію
+* **Pizza_DB.pbix** — основний файл Power BI з моделлю даних та інтерактивними звітами.
+* **Pizza_DB.pdf** — статична копія дашборду для швидкого перегляду результатів.
+* **SQLQuery1.sql** — набір SQL-запитів для розрахунку та перевірки ключових показників (KPI).
+* **pizza_sales_excel_file.xlsx** — вихідні дані (~48 000 рядків).
+
+### Технічний стек
+* **Power BI:** побудова моделі даних, написання мір на DAX, візуалізація.
+* **SQL Server:** перевірка точності даних та розрахунок бізнес-метрик.
+* **Excel:** підготовка та зберігання даних.
+
+### Ключові показники аналізу
+* Загальна виручка, кількість замовлень та середній чек.
+* Динаміка продажів за днями тижня та місяцями.
+* Структура реалізації за категоріями та розмірами піци.
+* Рейтинг найбільш та найменш популярних позицій меню.
+
+### Інструкція з відкриття
+1. Завантажте файл `Pizza_DB.pbix`.
+2. Відкрийте його за допомогою Power BI Desktop.
+3. У разі потреби оновіть шлях до джерела даних (Excel-файлу) через меню **"Перетворення даних"**, оскільки початкове підключення було налаштоване на локальний SQL-сервер.
 
 </details>
