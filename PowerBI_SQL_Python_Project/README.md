@@ -1,3 +1,6 @@
+<details>
+  <summary>Project Details / Деталі проєкту</summary>
+
 # 🛍️ Customer Shopping Behavior Analysis
 
 Analysis of retail customer purchasing patterns using SQL, Python, and Power BI.  
@@ -33,6 +36,9 @@ PostgreSQL · Python (Jupyter) · Power BI
 - `customer_shopping_behavior.pbix` — дашборд у Power BI
 - `customer_shopping_behavior.csv` — вихідний датасет
 - `Customer_Shopping_Behavior_Analysis.docx` — звіт з висновками та інсайтами
+
+ </details>
+
 
 ## SQL-аналіз
 Запити охоплюють сегментацію клієнтів, аналіз виручки за демографією,
