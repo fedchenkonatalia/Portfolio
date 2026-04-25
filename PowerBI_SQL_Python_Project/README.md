@@ -1,7 +1,7 @@
 <details>
   <summary>Project Details / Деталі проєкту</summary>
 
-# 🛍️ Customer Shopping Behavior Analysis
+# Customer Shopping Behavior Analysis
 
 Analysis of retail customer purchasing patterns using SQL, Python, and Power BI.  
 Dataset: ~3,900 customers with 18 attributes.
@@ -22,7 +22,7 @@ product performance, discount impact, and subscription behaviour.
 
 ---
 
-# 🛍️ Аналіз поведінки покупців
+# Аналіз поведінки покупців
 
 Аналіз купівельної поведінки клієнтів роздрібного магазину за допомогою SQL, Python та Power BI.  
 Датасет: ~3 900 клієнтів, 18 атрибутів.
