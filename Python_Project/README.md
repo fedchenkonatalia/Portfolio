@@ -1,4 +1,5 @@
-# 🍱 Swiggy Sales Analysis
+ </details>
+# Swiggy Sales Analysis
 
 Exploratory data analysis of food delivery orders across Indian cities.  
 Dataset: ~197,000 records · 10 columns.
@@ -17,7 +18,7 @@ Charts: Monthly and daily sales trends, quarterly performance, top 5 cities by s
 
 ---
 
-# 🍱 Аналіз продажів Swiggy
+# Аналіз продажів Swiggy
 
 Розвідковий аналіз замовлень сервісу доставки їжі по містах Індії.  
 Датасет: ~197 000 записів · 10 колонок.
@@ -33,3 +34,6 @@ Python · Pandas · Matplotlib · Seaborn · Plotly
 KPI: загальний виторг, кількість замовлень, середній чек, середній рейтинг, кількість оцінок
 
 Графіки: тренди продажів по місяцях і днях, квартальна динаміка, топ-5 міст за продажами, розподіл між веганською та невеганською їжею
+
+</details>
+
