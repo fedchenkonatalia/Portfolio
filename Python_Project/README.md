@@ -1,4 +1,5 @@
  </details>
+
 # Swiggy Sales Analysis
 
 Exploratory data analysis of food delivery orders across Indian cities.  
