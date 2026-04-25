@@ -1,4 +1,4 @@
- </details>
+ <details>
  <summary>Project Details / Деталі проєкту</summary>
 
 # Swiggy Sales Analysis
