@@ -37,9 +37,7 @@ PostgreSQL · Python (Jupyter) · Power BI
 - `customer_shopping_behavior.csv` — вихідний датасет
 - `Customer_Shopping_Behavior_Analysis.docx` — звіт з висновками та інсайтами
 
- </details>
-
-
 ## SQL-аналіз
 Запити охоплюють сегментацію клієнтів, аналіз виручки за демографією,
 ефективність товарів, вплив знижок та поведінку підписників.
+ </details>
